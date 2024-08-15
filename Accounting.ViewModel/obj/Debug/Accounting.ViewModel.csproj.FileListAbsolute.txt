@@ -1,0 +1,280 @@
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\Z1\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+J:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\ZMichaelZ\Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+J:\ZMichaelZ\Project\C#\2.17.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.19.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.pdb
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\Accounting.DataLayer.dll.config
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.xml
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CopyComplete
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb

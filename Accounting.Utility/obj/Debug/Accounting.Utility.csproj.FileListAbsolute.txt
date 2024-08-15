@@ -1,0 +1,84 @@
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\2.16.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+C:\ZMichaelZ\Project\C#\2.18.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\2.20.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb

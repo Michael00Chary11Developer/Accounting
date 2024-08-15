@@ -1,0 +1,86 @@
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.6.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.7.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.7.2_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.8.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+D:\Data\Training and Everything\All Project\C#\2.9.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+D:\Data\Training and Everything\All Project\C#\Z2\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+J:\ZMichaelZ\Project\C#\2.12.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+C:\ZMichaelZ\Project\C#\2.14.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+D:\ZMichaelZ\Project\C#\2.15.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.DataLayer.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.ViewModel.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\EntityFramework.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.DataLayer.pdb
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.DataLayer.dll.config
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.ViewModel.pdb
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\EntityFramework.xml
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CopyComplete
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+D:\Data\Training and Everything\All Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.DataLayer.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.ViewModel.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\EntityFramework.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.DataLayer.pdb
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.DataLayer.dll.config
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\Accounting.ViewModel.pdb
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\EntityFramework.xml
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CopyComplete
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+D:\ZMichaelZ\Project\C#\2.22.1_Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
